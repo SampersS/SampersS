@@ -14,19 +14,6 @@ After graduating, I followed a bridging programme towards a master's degree to f
 
 ---
 
-## 💼 Looking For
-
-I'm looking for my **first full-time position in software development**.
-
-I'm especially interested in work that involves:
-- 🧠 Algorithmic problem solving
-- ⚙️ Backend development
-- 🌐 Full-stack development
-- 🏗️ Software architecture
-- 🔍 Challenging technical problems
-
----
-
 ## 🛠️ Technical Skills
 
 ### Languages
